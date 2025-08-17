@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotiomSimples", "NotiomSimples.csproj", "{E21579FC-9F51-055F-17AD-F9A2191ADCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21579FC-9F51-055F-17AD-F9A2191ADCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21579FC-9F51-055F-17AD-F9A2191ADCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21579FC-9F51-055F-17AD-F9A2191ADCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21579FC-9F51-055F-17AD-F9A2191ADCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA6C0CD-A474-4044-80A8-78C21D0E7A05}
+	EndGlobalSection
+EndGlobal

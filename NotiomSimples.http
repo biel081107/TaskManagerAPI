@@ -1,0 +1,6 @@
+@NotiomSimples_HostAddress = http://localhost:5155
+
+GET {{NotiomSimples_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
